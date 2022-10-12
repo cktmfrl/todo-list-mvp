@@ -1,4 +1,4 @@
-package com.survivalcoding.todolist.presentation.main.adapter
+package com.example.todo_list_mvp.main.adapter
 
 import android.graphics.Color
 import android.view.LayoutInflater

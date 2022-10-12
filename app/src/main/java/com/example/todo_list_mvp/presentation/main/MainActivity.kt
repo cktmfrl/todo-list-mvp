@@ -3,10 +3,9 @@ package com.example.todo_list_mvp.presentation.main
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.activity.viewModels
-import com.example.todo_list_mvp.R
 import com.example.todo_list_mvp.databinding.ActivityMainBinding
-import com.survivalcoding.todolist.presentation.main.MainViewModel
-import com.survivalcoding.todolist.presentation.main.adapter.TodoListAdapter
+import com.example.todo_list_mvp.main.MainViewModel
+import com.example.todo_list_mvp.main.adapter.TodoListAdapter
 
 class MainActivity : AppCompatActivity() {
 

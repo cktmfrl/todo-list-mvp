@@ -1,4 +1,4 @@
-package com.survivalcoding.todolist.presentation.main.adapter
+package com.example.todo_list_mvp.main.adapter
 
 import androidx.recyclerview.widget.DiffUtil
 import com.example.todo_list_mvp.model.Todo
